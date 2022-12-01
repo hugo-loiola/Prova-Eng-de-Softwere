@@ -41,3 +41,9 @@ const listar_por_categoria = (categoria) => {
 };
 
 listar_por_categoria("Eletrônico");
+
+const listar_por_valor = (valor_minimo, valor_maximo) => {
+  for (let i = 0; i < produtos.length; i++) {}
+};
+
+listar_por_valor(5, 10);
